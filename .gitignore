@@ -1,0 +1,19 @@
+.idea
+*.iml
+out
+gen
+src/pybel.egg-info/*
+docs/build/*
+.tox/*
+*.pyc
+.coverage
+scratch/*
+.cache/*
+notebooks/PyBEL Playtime.ipynb
+*.gpickle
+build/*
+dist/*
+*.db
+*.coverage.*
+
+tests/owl/catalog-v*.xml
