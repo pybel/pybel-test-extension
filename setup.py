@@ -16,7 +16,7 @@ EXTRAS_REQUIRE = {}
 TESTS_REQUIRE = []
 ENTRY_POINTS = {
     'pybel.ext':
-        ['test = pybel_test_extension.extension', 'test = pybel_test_extension.extension']
+        ['test = pybel_test_extension.extension']
 }
 
 #################################################################
