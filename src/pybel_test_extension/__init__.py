@@ -10,5 +10,4 @@ __author__ = 'Scott Colby'
 __email__ = 'scolby33@gmail.com'
 
 __license__ = 'Apache 2.0 License'
-__copyright__ = 'Copyright (c) 2016 Scott Colby'
-
+__copyright__ = 'Copyright (c) 2017 Scott Colby, Charles Tapely Hoyt'
