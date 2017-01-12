@@ -12,6 +12,12 @@ $ cd pybel-test-extension
 $ pip install .
 ```
 
+or
+
+```sh
+pip install git+https://github.com/pybel/pybel-test-extension.git@master
+```
+
 Once installed, all you need to do to access the extension is import `pybel`:
 
 ```python
