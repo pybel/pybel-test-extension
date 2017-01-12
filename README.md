@@ -35,5 +35,5 @@ setuptools.setup(
 )
 ```
 
-The group `pybel.ext` must be used in order for the extension to be recognized by PyBEL. You can name your extension whatever you want, but attempt to avoid name collisions. PyBEL will issue a warning if a collision is detected and only the first extension imported will be available. The string after the equals sign must point to an importable module which contains your extension--it works just like the standard `console_scripts` entry point.
+The group `pybel.ext` must be used in order for the extension to be recognized by PyBEL. You can name your extension whatever you want, but attempt to avoid name collisions. The string after the equals sign must point to an importable module which contains your extension--it works just like the standard `console_scripts` entry point.
 
