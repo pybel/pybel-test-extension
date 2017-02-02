@@ -11,7 +11,7 @@ PACKAGES = setuptools.find_packages(where='src')
 META_PATH = os.path.join('src', 'pybel_test_extension', '__init__.py')
 KEYWORDS = []
 CLASSIFIERS = []
-INSTALL_REQUIRES = ['pybel']
+INSTALL_REQUIRES = []
 EXTRAS_REQUIRE = {}
 TESTS_REQUIRE = []
 ENTRY_POINTS = {
