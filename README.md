@@ -2,6 +2,8 @@
 
 An example of a PyBEL extension.
 
+**Warning:** PyBEL v0.11.2 is the last version of PyBEL to support extension loading; the functionality was removed in [commit `c845c66`](https://github.com/pybel/pybel/commit/c845c66eba844aaed23aec16a8d70c2024424ed9) on 4 June 2018. In place of the `pybel.ext` namespace, just create your extensions as normal packages and import them under their own names. This repository will remain, in its deprecated state, for historical preservation and to ensure any old tests remain functional.
+
 ## Usage
 
 This package has not been uploaded to PyPI, so you'll have to get it from GitHub.
